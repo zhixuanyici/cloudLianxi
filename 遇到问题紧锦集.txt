@@ -1,0 +1,16 @@
+springcloud 遇到的问题：
+1.feign断路器使用，在application。yml中报错
+2.断路器：Hystris仪表盘，可以访问，不过访问具体action时候，
+	报 Unable to connect to Command Metric Stream. 错误
+3.
+
+
+
+
+
+
+
+
+
+
+服务注册与发现、服务消费、负载均衡、断路器、智能路由、配置管理
